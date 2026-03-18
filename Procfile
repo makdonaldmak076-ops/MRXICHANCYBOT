@@ -1,2 +1,1 @@
-aiogram==2.25.1
-requests
+worker: python bot.py
